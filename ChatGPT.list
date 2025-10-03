@@ -15,10 +15,19 @@ DOMAIN-KEYWORD,recaptcha
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 3
 # TOTAL: 6
+
 DOMAIN,cdn.usefathom.com
+DOMAIN-KEYWORD,stripe
+DOMAIN-SUFFIX,honeycomb.io
+DOMAIN-KEYWORD,honeycomb
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-KEYWORD,googleapis
 DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,intercom
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
 
