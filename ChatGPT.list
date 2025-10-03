@@ -7,3 +7,18 @@ DOMAIN-KEYWORD,iproyal
 DOMAIN-KEYWORD,airwallex
 PROCESS-NAME,Airwallex
 DOMAIN-KEYWORD,recaptcha
+
+# NAME: Claude
+# AUTHOR: arcthur
+# UPDATED: 2023-07-12
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 6
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
+
