@@ -1,0 +1,7 @@
+# Speed test rules
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest.frontier.com
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-KEYWORD,nflxvideo

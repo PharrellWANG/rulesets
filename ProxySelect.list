@@ -1,0 +1,25 @@
+# Proxy selection rules
+DOMAIN-SUFFIX,quad9.net
+DOMAIN-KEYWORD,nextdns
+DOMAIN-KEYWORD,cloudflare-dns
+DOMAIN-SUFFIX,gradle.com
+PROCESS-NAME,/Applications/NetworkKit.app/Contents/MacOS/NetworkKit
+DOMAIN-SUFFIX,i4.cn
+DOMAIN-KEYWORD,doggygo
+DOMAIN-KEYWORD,dytt8
+DOMAIN-KEYWORD,trustpilot
+DOMAIN-KEYWORD,afirstsoft
+DOMAIN-KEYWORD,onlyfans
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,wireshark.org
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,tenorshare.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN,actions.aptonic.com
+PROCESS-NAME,Visual Studio Code
+PROCESS-NAME,/User/local/bin/code
+PROCESS-NAME,Mimestream*
+PROCESS-NAME,Notion*
+PROCESS-NAME,Firefox*

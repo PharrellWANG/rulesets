@@ -1,0 +1,38 @@
+# Home proxy rules
+DOMAIN-KEYWORD,binance
+DOMAIN-SUFFIX,glasswire.com
+DOMAIN-SUFFIX,perfetto.dev
+DOMAIN,candy.ai
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN,maven.aliyun.com
+DOMAIN,repo.maven.apache.org
+DOMAIN-KEYWORD,semianalysis
+DOMAIN-KEYWORD,namecheap
+DOMAIN-KEYWORD,twilio
+DOMAIN-KEYWORD,replica
+DOMAIN-KEYWORD,githubcopilot
+DOMAIN,api.githubcopilot.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+DOMAIN-KEYWORD,stackoverflow
+PROCESS-NAME,/Applications/JetBrains Toolbox.app/Contents/MacOS/jetbrains-toolbox
+PROCESS-NAME,java
+PROCESS-NAME,zed
+PROCESS-NAME,Android Studio
+DOMAIN-SUFFIX,gradle.org
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ianygo.com
+DOMAIN,gs-loc.apple.com
+DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg
+PROCESS-NAME,Z-Library*
+PROCESS-NAME,*iAnyGo*

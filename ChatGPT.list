@@ -1,0 +1,9 @@
+# ChatGPT and AI rules
+PROCESS-NAME,Claude
+PROCESS-NAME,Claude Helper
+PROCESS-NAME,Claude *
+PROCESS-NAME,ChatGPT*
+DOMAIN-KEYWORD,iproyal
+DOMAIN-KEYWORD,airwallex
+PROCESS-NAME,Airwallex
+DOMAIN-KEYWORD,recaptcha

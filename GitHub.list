@@ -1,0 +1,8 @@
+# GitHub rules
+DOMAIN-KEYWORD,github
+DOMAIN,release-assets.githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
