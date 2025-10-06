@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,miui.com
 DOMAIN,cdn233.nihong.org
 IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,10.0.158.0/24,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
 DOMAIN,ui.perfetto.dev
 DOMAIN-KEYWORD,feishu
 DOMAIN-SUFFIX,feishu.cn
