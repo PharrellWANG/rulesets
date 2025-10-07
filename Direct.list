@@ -1,6 +1,8 @@
 # Direct rules
 DOMAIN-SUFFIX,miui.com
 DOMAIN,cdn233.nihong.org
+# AaIT VPS
+IP-CIDR,47.178.0.226/32,no-resolve
 IP-CIDR,169.254.0.0/16,no-resolve
 IP-CIDR,10.0.158.0/24,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
