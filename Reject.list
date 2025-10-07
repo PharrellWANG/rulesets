@@ -1,10 +1,11 @@
 # Reject rules
 DOMAIN,deskmgmt.insta360.cn
 PROCESS-NAME,/Applications/Yunshu.app/Contents/MacOS/Yunshu
+PROCESS-NAME,com.eagleyun.sase.helper
 PROCESS-NAME,*YunShu*
 PROCESS-NAME,YunShu*
-PROCESS-NAME,YunShu Graphics and Media
-PROCESS-NAME,YunShu Networking
+PROCESS-NAME,"YunShu Graphics and Media"
+PROCESS-NAME,"YunShu Networking"
 PROCESS-NAME,YunShu
 PROCESS-NAME,YunshuAgent
 PROCESS-NAME,YunshuRemoteDeskSession
