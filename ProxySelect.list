@@ -1,4 +1,6 @@
 # Proxy selection rules
+DOMAIN-SUFFIX,sms-activate.io
+DOMAIN-SUFFIX,cuniq.com
 DOMAIN-SUFFIX,quad9.net
 DOMAIN-KEYWORD,nextdns
 DOMAIN-KEYWORD,cloudflare-dns
