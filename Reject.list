@@ -15,7 +15,7 @@ PROCESS-NAME,ndsc
 DOMAIN-KEYWORD,eagleyun
 DOMAIN-SUFFIX,appcenter.ms
 PROCESS-NAME,IconChamp
-DOMAIN-SUFFIX,sweetscape.com
+# DOMAIN-SUFFIX,sweetscape.com
 DOMAIN-SUFFIX,eagleyun.cn
 DOMAIN-SUFFIX,applicationinsights.azure.com
 DOMAIN-SUFFIX,google-analytics.com
