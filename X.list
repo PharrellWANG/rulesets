@@ -32,3 +32,14 @@ IP-CIDR,199.96.56.0/21
 IP-CIDR,202.160.128.0/22
 IP-CIDR,209.237.192.0/19
 IP-CIDR,69.195.160.0/19
+
+# ref: https://clashios.app/rule/twitter
+#
+# - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Twitter/Twitter.list
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
+# - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/Twitter.list
+# - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Twitter.list
+# - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Twitter.list
+# - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Twitter.yaml
+# - https://rules.kr328.app/twitter.yaml
+# - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Twitter.yaml
