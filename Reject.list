@@ -12,6 +12,7 @@ PROCESS-NAME,YunshuRemoteDeskSession
 PROCESS-NAME,YunshuPluginService
 PROCESS-NAME,YunshuManager
 PROCESS-NAME,ndsc
+DOMAIN,sp.eagleyun.cn
 DOMAIN-KEYWORD,eagleyun
 DOMAIN-SUFFIX,appcenter.ms
 PROCESS-NAME,IconChamp
