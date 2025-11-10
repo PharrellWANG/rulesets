@@ -10,6 +10,7 @@ IP-CIDR,10.0.0.0/8,no-resolve
 DOMAIN,ui.perfetto.dev
 DOMAIN,gitlab.insta360.com
 DOMAIN,conan2.insta360.cn
+DOMAIN,course.insta360.cn
 DOMAIN,jira.insta360.com
 DOMAIN-KEYWORD,feishu
 DOMAIN-SUFFIX,feishu.cn
