@@ -34,7 +34,8 @@ DOMAIN-SUFFIX,icloud.vn
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,books.itunes.apple.com
-DOMAIN,cdn.apple-cloudkit.com
+# DOMAIN,cdn.apple-cloudkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN,cvws.icloud-content.com
 DOMAIN,developer.apple.com
 DOMAIN,devimages-cdn.apple.com
