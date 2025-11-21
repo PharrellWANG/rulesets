@@ -8,6 +8,35 @@ DOMAIN-KEYWORD,airwallex
 PROCESS-NAME,Airwallex
 DOMAIN-KEYWORD,recaptcha
 
+# Google Gemini, Google Antigravity
+PROCESS-NAME,"/Applications/Antigravity.app/Contents/MacOS/Electron"
+PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper.app/Contents/MacOS/Antigravity Helper"
+PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (GPU).app/Contents/MacOS/Antigravity Helper (GPU)"
+PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (Plugin).app/Contents/MacOS/Antigravity Helper (Plugin)"
+PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (Renderer).app/Contents/MacOS/Antigravity Helper (Renderer)"
+DOMAIN,edgedl.me.gvt1.com
+DOMAIN,edgedl.me.gvt2.com
+DOMAIN,edgedl.me.gvt3.com
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
+DOMAIN,pkief.gallerycdn.vsassets.io
+DOMAIN,gemini.google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,google.co.uk
+DOMAIN-SUFFIX,google.de
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,www.googletagmanager.com
+DOMAIN,proxy.individual.githubcopilot.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,pkief.gallerycdn.azure.cn
+
 # NAME: Claude
 # AUTHOR: arcthur
 # UPDATED: 2023-07-12
