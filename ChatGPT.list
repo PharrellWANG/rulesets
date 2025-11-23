@@ -9,6 +9,14 @@ PROCESS-NAME,Airwallex
 DOMAIN-KEYWORD,recaptcha
 
 # Google Gemini, Google Antigravity
+
+PROCESS-NAME,Antigravity
+PROCESS-NAME,com.google.antigravity
+
+PROCESS-NAME,Antigravity Helper (Plugin)
+PROCESS-NAME,"Antigravity Helper (Plugin)"
+PROCESS-NAME,com.google.antigravity.helper
+
 PROCESS-NAME,"/Applications/Antigravity.app/Contents/MacOS/Electron"
 PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper.app/Contents/MacOS/Antigravity Helper"
 PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Helper (GPU).app/Contents/MacOS/Antigravity Helper (GPU)"
@@ -17,6 +25,8 @@ PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Help
 
 PROCESS-NAME,language_server_macos_arm
 
+DOMAIN,antigravity-auto-updater-974169037036.us-central1.run.app
+DOMAIN-SUFFIX,us-central1.run.app
 DOMAIN,edgedl.me.gvt1.com
 DOMAIN,edgedl.me.gvt2.com
 DOMAIN,edgedl.me.gvt3.com
@@ -24,6 +34,9 @@ DOMAIN,antigravity.google
 DOMAIN,antigravity.goog
 DOMAIN-KEYWORD,antigravity
 DOMAIN,antigravity-unleash.goog
+DOMAIN,antigravity-unleash.google
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN-SUFFIX,*.sandbox.googleapis.com
 DOMAIN-KEYWORD,antigravity-unleash
 DOMAIN,pkief.gallerycdn.vsassets.io
 DOMAIN,gemini.google
