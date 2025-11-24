@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,airwallex
 PROCESS-NAME,Airwallex
 DOMAIN-KEYWORD,recaptcha
 
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+
 # Google Gemini, Google Antigravity
 
 PROCESS-NAME,Antigravity
