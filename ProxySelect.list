@@ -1,10 +1,7 @@
 # Proxy selection rules
 DOMAIN-SUFFIX,sweetscape.com
-DOMAIN-SUFFIX,sms-activate.io
 DOMAIN-SUFFIX,cuniq.com
-DOMAIN-SUFFIX,quad9.net
-DOMAIN-KEYWORD,nextdns
-DOMAIN-KEYWORD,cloudflare-dns
+
 DOMAIN-SUFFIX,gradle.com
 PROCESS-NAME,/Applications/NetworkKit.app/Contents/MacOS/NetworkKit
 DOMAIN-SUFFIX,i4.cn
