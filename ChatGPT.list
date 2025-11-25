@@ -28,6 +28,12 @@ PROCESS-NAME,"/Applications/Antigravity.app/Contents/Frameworks/Antigravity Help
 
 PROCESS-NAME,language_server_macos_arm
 
+DOMAIN,gemini.google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-KEYWORD,googleusercontent
+
 DOMAIN,antigravity-auto-updater-974169037036.us-central1.run.app
 DOMAIN-SUFFIX,us-central1.run.app
 DOMAIN,edgedl.me.gvt1.com
@@ -43,10 +49,7 @@ DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN-SUFFIX,*.sandbox.googleapis.com
 DOMAIN-KEYWORD,antigravity-unleash
 DOMAIN,pkief.gallerycdn.vsassets.io
-DOMAIN,gemini.google
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleusercontent.com
+
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,google.co.jp
