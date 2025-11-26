@@ -1,0 +1,11 @@
+# This list is for resolving the IP address of the DoH domain itself (Bootstrap), 
+# instead of the DoH traffic. 
+# The DoH traffic is handled in `PROTOCOL,DOH,[CustomizedPolicy]` in rules-custom.txt
+
+DOMAIN,unfiltered.joindns4.eu
+DOMAIN-SUFFIX,unfiltered.joindns4.eu
+DOMAIN-KEYWORD,joindns4
+# 
+DOMAIN-SUFFIX,quad9.net
+DOMAIN-KEYWORD,nextdns
+DOMAIN-KEYWORD,cloudflare-dns

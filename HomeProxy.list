@@ -1,38 +1,55 @@
-# Home proxy rules
+# Home Proxy Rules
+# For services that work best with residential IP proxy
+
+# Crypto & Finance
 DOMAIN-KEYWORD,binance
+
+# Utilities
 DOMAIN-SUFFIX,glasswire.com
 DOMAIN-SUFFIX,perfetto.dev
 DOMAIN,candy.ai
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,instagram.com
+
+# Maven repos
 DOMAIN,maven.aliyun.com
 DOMAIN,repo.maven.apache.org
+
+# Misc services
 DOMAIN-KEYWORD,semianalysis
 DOMAIN-KEYWORD,namecheap
 DOMAIN-KEYWORD,twilio
 DOMAIN-KEYWORD,replica
+
+# GitHub Copilot (moved to AI.list if needed)
 DOMAIN-KEYWORD,githubcopilot
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
+
+# Bing/Search
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 DOMAIN-KEYWORD,stackoverflow
+
+# Dev Tools
 PROCESS-NAME,/Applications/JetBrains Toolbox.app/Contents/MacOS/jetbrains-toolbox
 PROCESS-NAME,java
 PROCESS-NAME,zed
 PROCESS-NAME,Android Studio
 DOMAIN-SUFFIX,gradle.org
+
+# Google services
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
+
+# Location spoof
 DOMAIN-SUFFIX,ianygo.com
 DOMAIN,gs-loc.apple.com
-DOMAIN-KEYWORD,grok
+
+# Social media (X/Twitter rules moved to X.list)
 DOMAIN-KEYWORD,reddit
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,twimg
+
+# Apps
 PROCESS-NAME,Z-Library*
 PROCESS-NAME,*iAnyGo*

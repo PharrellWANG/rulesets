@@ -1,3 +1,6 @@
+# Merged AI Rules (ChatGPT, Perplexity, AiClient)
+
+# --- From ChatGPT.list ---
 # ChatGPT and AI rules
 PROCESS-NAME,Claude
 PROCESS-NAME,Claude Helper
@@ -148,3 +151,13 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 ################## EOF ##################
 
+# --- From Perplexity.list ---
+# Perplexity rules
+PROCESS-NAME,superwhisper
+PROCESS-NAME,Perplexity
+DOMAIN-KEYWORD,perplexity
+
+# --- From AiClient.list ---
+# AI Client rules
+DOMAIN-KEYWORD,typingmind
+PROCESS-NAME,BoltAI
