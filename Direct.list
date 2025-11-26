@@ -4,9 +4,7 @@ DOMAIN,cdn233.nihong.org
 DOMAIN-SUFFIX,xn--yfr307ea3670a.com
 # AaIT VPS
 IP-CIDR,47.178.0.226/32,no-resolve
-IP-CIDR,169.254.0.0/16,no-resolve
 IP-CIDR,10.0.158.0/24,no-resolve
-IP-CIDR,10.0.0.0/8,no-resolve
 DOMAIN,ui.perfetto.dev
 DOMAIN,gitlab.insta360.com
 DOMAIN,conan2.insta360.cn
