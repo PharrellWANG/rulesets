@@ -14,17 +14,15 @@ PROCESS-NAME,YunshuManager
 PROCESS-NAME,ndsc
 DOMAIN,sp.eagleyun.cn
 DOMAIN-KEYWORD,eagleyun
-DOMAIN-SUFFIX,appcenter.ms
-PROCESS-NAME,IconChamp
-# DOMAIN-SUFFIX,sweetscape.com
 DOMAIN-SUFFIX,eagleyun.cn
+
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,applicationinsights.azure.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,simpleanalyticscdn.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,cnzz.com
-DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,winzip.com
 DOMAIN,order.luckydogsoft.com
@@ -32,7 +30,9 @@ DOMAIN,ip6.istatmenus.app
 DOMAIN,track.sohu.com
 DOMAIN,custom.typingmind.com
 DOMAIN,updates.aptonic.com
-DOMAIN,api.revenuecat.com
+# DOMAIN-SUFFIX,sweetscape.com
+# DOMAIN-SUFFIX,app-analytics-services.com
+# DOMAIN,api.revenuecat.com
 PROCESS-NAME,WinZip
 PROCESS-NAME,Timing*
 PROCESS-NAME,PowerPhotos*
