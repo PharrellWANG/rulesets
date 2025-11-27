@@ -161,3 +161,11 @@ DOMAIN-KEYWORD,perplexity
 # AI Client rules
 DOMAIN-KEYWORD,typingmind
 PROCESS-NAME,BoltAI
+
+
+######
+
+DOMAIN-SUFFIX,cursor.sh
+PROCESS-NAME,*Cursor*
+PROCESS-NAME,*cursor*
+PROCESS-NAME,"/Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin)"
