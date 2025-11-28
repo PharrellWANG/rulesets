@@ -38,12 +38,8 @@ PROCESS-NAME,zed
 PROCESS-NAME,Android Studio
 DOMAIN-SUFFIX,gradle.org
 
-# Google services
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleusercontent.com
-
 # Location spoof
+PROCESS-NAME,*iAnyGo*
 DOMAIN-SUFFIX,ianygo.com
 DOMAIN,gs-loc.apple.com
 
@@ -52,4 +48,4 @@ DOMAIN-KEYWORD,reddit
 
 # Apps
 PROCESS-NAME,Z-Library*
-PROCESS-NAME,*iAnyGo*
+
