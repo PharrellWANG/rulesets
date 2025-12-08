@@ -31,13 +31,6 @@ DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 DOMAIN-KEYWORD,stackoverflow
 
-# Dev Tools
-PROCESS-NAME,/Applications/JetBrains Toolbox.app/Contents/MacOS/jetbrains-toolbox
-PROCESS-NAME,java
-PROCESS-NAME,zed
-PROCESS-NAME,Android Studio
-DOMAIN-SUFFIX,gradle.org
-
 # Location spoof
 PROCESS-NAME,*iAnyGo*
 DOMAIN-SUFFIX,ianygo.com
