@@ -16,6 +16,9 @@ DOMAIN,sp.eagleyun.cn
 DOMAIN-KEYWORD,eagleyun
 DOMAIN-SUFFIX,eagleyun.cn
 
+DOMAIN,browser.events.data.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
+
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,applicationinsights.azure.com
 DOMAIN-SUFFIX,google-analytics.com
