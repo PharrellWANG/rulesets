@@ -6,10 +6,3 @@ DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
-
-# Dev Tools
-PROCESS-NAME,/Applications/JetBrains Toolbox.app/Contents/MacOS/jetbrains-toolbox
-PROCESS-NAME,java
-PROCESS-NAME,zed
-PROCESS-NAME,Android Studio
-DOMAIN-SUFFIX,gradle.org
